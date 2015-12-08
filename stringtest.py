@@ -7,7 +7,7 @@ for c in str01:
 print len(str01)
 n = 0
 for c in str01:
-  if c =="a" or c == "a" or c == "a": 
+  if c =="å" or c == "Å" or c =="æ" or c == "Æ" or c =="ø" or c == "Ø" : 
     n = n + 1
 print "Number of especial danish characters: ", n
 
