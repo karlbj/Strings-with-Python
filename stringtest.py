@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-str01 = raw_input("Type som characters: ") 
+str01 = raw_input("Type some characters: ") 
 for c in str01:
   print c
 print len(str01)
